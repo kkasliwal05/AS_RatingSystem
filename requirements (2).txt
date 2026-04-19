@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+sentence-transformers
+transformers
+torch
+playwright
+nltk
+tzdata
+flask
+werkzeug
+flask-sock
